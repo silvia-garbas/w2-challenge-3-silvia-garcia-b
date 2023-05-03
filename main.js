@@ -23,7 +23,6 @@ const counter = (value) => {
 };
 const playCounter = () => {
   let value = document.querySelector(".counter-number");
-  let result;
   counter(value);
 };
 
